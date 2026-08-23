@@ -7,7 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [0.1.0] - 2026-08-23
 
+### Added
+- Initial release of CPM (CMake Project Manager).
+- Core commands: `new`, `build`, `run`, `test`, `clean`.
+- Auto-installation script with PATH configuration.
+
+### Changed
+- N/A
+
+### Fixed
+- N/A
 
 ---
 
