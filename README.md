@@ -6,6 +6,8 @@ A lightweight CLI tool to create, build, and manage CMake projects with zero boi
 ![Bash](https://img.shields.io/badge/bash-4.0+-green.svg)
 ![CMake](https://img.shields.io/badge/cmake-3.15+-orange.svg)
 
+**Current Version: 0.1.0**
+
 ## ✨ Features
 
 - 🏗️ Scaffold C++ projects with one command
@@ -17,7 +19,7 @@ A lightweight CLI tool to create, build, and manage CMake projects with zero boi
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/cpm.git
+git clone https://github.com/daniil-verba/cpm.git
 cd cpm
 chmod +x install.sh
 ./install.sh
@@ -26,7 +28,7 @@ chmod +x install.sh
 Or via curl:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/yourusername/cpm/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/daniil-verba/cpm/main/install.sh | bash
 ```
 
 ## 📖 Usage
